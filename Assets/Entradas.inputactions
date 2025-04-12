@@ -1,0 +1,34 @@
+{
+    "name": "Entradas",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "bd37e07b-8680-47a0-bb93-b74888f7ed98",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "9d492ebd-c5ee-49a3-aa8e-3fc257f79b42",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "97bd1827-7392-449a-8ff9-3feb34f3e42b",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

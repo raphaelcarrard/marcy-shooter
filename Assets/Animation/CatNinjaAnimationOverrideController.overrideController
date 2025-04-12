@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CatNinjaAnimationOverrideController
+  m_Controller: {fileID: 9100000, guid: 99930fe14a35cda43ae30fcd2b9122ca, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2989d7708ec2f9e45aa8f43730376665, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2989d7708ec2f9e45aa8f43730376665, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d01a75aa3960dce46b9dbd8dab18d831, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d01a75aa3960dce46b9dbd8dab18d831, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 83ea3f5715dbfc649aa9f1beed793a88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83ea3f5715dbfc649aa9f1beed793a88, type: 2}
