@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1521.6
     height: 758.4
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 332}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 121
+  controlID: 112
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -166,7 +166,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 671.2
-    height: 298.4
+    height: 345.6
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
@@ -175,7 +175,7 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 16}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,9 +192,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 298.4
+    y: 345.6
     width: 671.2
-    height: 404.00003
+    height: 356.80002
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
@@ -329,9 +329,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 7.2000003
-    y: 384.80002
+    y: 432
     width: 670.2
-    height: 378.00003
+    height: 330.80002
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -349,7 +349,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 2960, y: 1440}
+  m_TargetSize: {x: 2560, y: 1440}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -358,14 +358,14 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 0700000000000000000000000c000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 0300000000000000000000000a000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -1184
-    m_HBaseRangeMax: 1184
+    m_HBaseRangeMin: -1024
+    m_HBaseRangeMax: 1024
     m_VBaseRangeMin: -576
     m_VBaseRangeMax: 576
     m_HAllowExceedBaseRangeMin: 1
@@ -386,22 +386,22 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 670.2
-      height: 357.00003
-    m_Scale: {x: 0.28302366, y: 0.28302366}
-    m_Translation: {x: 335.1, y: 178.50002}
+      height: 309.80002
+    m_Scale: {x: 0.26892364, y: 0.26892364}
+    m_Translation: {x: 335.1, y: 154.90002}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1184
-      y: -630.6894
-      width: 2368
-      height: 1261.3788
+      x: -1246.0786
+      y: -576
+      width: 2492.1572
+      height: 1152
     m_MinimalGUI: 1
-  m_defaultScale: 0.28302366
-  m_LastWindowPixelSize: {x: 837.75, y: 472.50003}
+  m_defaultScale: 0.26892364
+  m_LastWindowPixelSize: {x: 837.75, y: 413.50003}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -432,7 +432,7 @@ MonoBehaviour:
     x: 7.2000003
     y: 86.4
     width: 670.2
-    height: 272.4
+    height: 319.6
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -959,9 +959,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.4789848, y: 7.620358, z: -18.374914}
+    m_Target: {x: 513.87665, y: 142.99481, z: -31.504276}
     speed: 2
-    m_Value: {x: 0.4789848, y: 7.620358, z: -18.374914}
+    m_Value: {x: 513.87665, y: 142.99481, z: -31.504276}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1011,13 +1011,13 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.07491698, y: -0.032604333, z: 0.002264993, w: -0.9967984}
   m_Size:
-    m_Target: 7.9296055
+    m_Target: 1232.1709
     speed: 2
-    m_Value: 7.9296055
+    m_Value: 1232.1709
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -1208,10 +1208,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Audio Mixer\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 5.6
-    y: 96
+    x: 7.2000003
+    y: 86.4
     width: 670.2
-    height: 272.4
+    height: 319.6
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1226,7 +1226,7 @@ MonoBehaviour:
   m_MixersTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
-    m_LastClickedID: 43094
+    m_LastClickedID: 43112
     m_ExpandedIDs: 4c60ffff56a8000012eb343c
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1343,7 +1343,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 43999
+      ID: 4039
       splitterInitialOffset: 160.8
       currentActiveSplitter: -1
       realSizes:
@@ -1410,7 +1410,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -197146
+  m_LastSelectedObjectID: 43704
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1452,7 +1452,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f0faffff
+      m_ExpandedIDs: 42e6ffffaeebffffc6ebffff9aeeffff1ef1ffff38f1ffffe8f6fffff0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1541,7 +1541,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0230000
     m_LastClickedID: 9136
-    m_ExpandedIDs: 0000000022a80000a0ab0000a2ab0000f8b20000fab20000fcb20000feb2000000b3000002b30000
+    m_ExpandedIDs: 0000000022a8000068a80000e4a90000e6a90000e8a90000eaa90000eca90000eea90000f0a90000f2a90000f4a90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1570,7 +1570,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000022a80000a0ab0000a2ab0000f8b20000fab20000fcb20000feb2000000b3000002b30000
+    m_ExpandedIDs: ffffffff0000000022a8000068a80000e4a90000e6a90000e8a90000eaa90000eca90000eea90000f0a90000f2a90000f4a90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
